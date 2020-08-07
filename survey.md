@@ -1,6 +1,6 @@
 This survey is being used to gather data on the electronic biomedical research platform, Translator. The Translator program is funded by the National Center for Advancing Translational Sciences (NCATS) at the National Institutes of Health (NIH). As a platform for facilitating biomedical research, the concept of Translator is analogous to a virtual oracle (i.e., all-knowing entity) that can search through and synthesize vast amounts of biomedical knowledge (e.g., Reactome, DrugBank) and biomedical data (e.g., GenBank, UniProt) to answer biomedical questions. The idea behind Translator is that biomedical researchers ask questions to help define and refine research hypotheses for more efficient and effective biomedical science. <br />
 
-This survey is intended for biomedical researchers. If you are a biomedical researcher who would like to participate in this survey, please provide an answer to each item listed below. As a result of answering every item contained in this survey, you will be entered into a raffle to win <>. We truly appreciate your time and perspective. Thank you so much in advance for your efforts. <br />
+This survey is intended for biomedical researchers. If you are a biomedical researcher who would like to participate in this survey, please provide an answer to each item listed below. As a result of answering every item contained in this survey, you will be entered into a raffle to win []. We truly appreciate your time and perspective. Thank you so much in advance for your efforts. <br />
 
 
 1. Prior to this survey, were you aware of the Translator program? <br />
@@ -22,7 +22,7 @@ No  [ ] <br />
 -Knowledge bases (e.g., Reactome, DrugBank) <br />
 -Electronic medical record (EMR) data <br />
 
-4. Based on the description of Translator provided at the beginning of this survey, please provide as many examples that come to mind of the biomedical questions you would want Translator to answer. <br />
+4. Please think back to a recent time when you were conducting research, what are some examples of the biomedical questions that you explored? <br />
 [Enter response here] <br />
 
 5. Based on the description of Translator provided at the beginning of this survey, please describe any concerns you would have about using Translator. <br />

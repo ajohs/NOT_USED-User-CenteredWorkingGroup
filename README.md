@@ -7,28 +7,28 @@ The aim of the User-Centered Working Group is to function as an advisory board i
 Rosina Weber, Explanatory Agent
 
 # Inaugural Members
-Andrew Hoffman (Expander Agent)
-Andrew Williams (Explanatory Agent)
-David Koslicki (Expander Agent)
-Adam Johs (Explanatory Agent)
-Mark Williams (Link Brokers)
-Gustavo Glusman (Multiomics Provider)
-Kevin Cohen (Text Mining Provider)
-Jason Flannick (Genetics Provider)
-Andrew Su (Exploring Agent, Service Provider)
-Will Byrd (Unsecret Agent)
-Maureen Hoatlin (SRI)
-Keum Joo Kim (Connection Hypotheses Provider)
-Kara Fecho (Exposures Provider)
-Julie Hayes (Exposures Provider)
-Stanley Ahalt (Exposures Provider, SRI)
+Andrew Hoffman (Expander Agent) <br />
+Andrew Williams (Explanatory Agent) <br />
+David Koslicki (Expander Agent) <br />
+Adam Johs (Explanatory Agent) <br />
+Mark Williams (Link Brokers) <br />
+Gustavo Glusman (Multiomics Provider) <br />
+Kevin Cohen (Text Mining Provider) <br />
+Jason Flannick (Genetics Provider) <br />
+Andrew Su (Exploring Agent, Service Provider) <br />
+Will Byrd (Unsecret Agent) <br />
+Maureen Hoatlin (SRI) <br />
+Keum Joo Kim (Connection Hypotheses Provider) <br />
+Kara Fecho (Exposures Provider) <br />
+Julie Hayes (Exposures Provider) <br />
+Stanley Ahalt (Exposures Provider, SRI) <br />
 Sui Huang ((im)Prove Agent)
 
 # Attached Committee
 Architecture Committee
 
 # Preferred Communications Mediums
-Slack (for electronic correspondence): #user-centered-working-group
+Slack (for electronic correspondence): #user-centered-working-group <br />
 Zoom (for meetings)
 
 # Google Drive Folder
